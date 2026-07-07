@@ -79,5 +79,3 @@ pip install -r requirements.txt
 
 3. Open the notebook using Google Colab or Jupyter Notebook.
 4. Run the notebook cells sequentially.
-
-visuals/games releases over time.png
